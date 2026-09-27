@@ -1,0 +1,9 @@
+# Python dependencies for Shariah-CFE-1
+# Tested with Python 3.11 and 3.12.
+numpy>=1.24
+scipy>=1.10
+pandas>=2.0
+matplotlib>=3.7
+scikit-learn>=1.3
+xgboost>=2.0
+statsmodels>=0.14

@@ -1,0 +1,9 @@
+{
+  "n_paths": 10000,
+  "spread_bps": 2.0,
+  "broker_markup": 0.01,
+  "alpha_maint": 0.5,
+  "client_capital": 10000.0,
+  "ujrah_bps_per_annum": 100.0,
+  "seed_base": 20260928
+}
