@@ -1,5 +1,8 @@
 # Shariah-CFE-1
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22998850.svg)](https://doi.org/10.5281/zenodo.22998850)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Reference Python implementation and reproducibility materials for the
 working paper
 
@@ -11,6 +14,7 @@ working paper
 > Muhammad Taha Asif
 > School of Mathematics and Statistics, The University of Sydney
 > [ORCID: 0009-0003-5277-5908](https://orcid.org/0009-0003-5277-5908)
+> DOI: [10.5281/zenodo.22998850](https://doi.org/10.5281/zenodo.22998850)
 
 The paper formalises the standard retail Contract-for-Difference
 (CFD) architecture as a coupled stochastic system driven by a Bates
@@ -85,11 +89,10 @@ If you use this code in your research, please cite the paper:
   institution  = {The University of Sydney},
   year         = {2026},
   type         = {Working Paper},
-  url          = {https://github.com/Muhammad-Taha-Asif/Shariah-CFE-1}
+  doi          = {10.5281/zenodo.22998850},
+  url          = {https://doi.org/10.5281/zenodo.22998850}
 }
 ```
-
-A Zenodo-assigned DOI will be added here on first tagged release.
 
 ## License
 
